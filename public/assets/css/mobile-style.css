@@ -1,0 +1,217 @@
+@media screen and (max-width:1400px){
+    .main-cover-slider{
+        right: 195px;
+    }
+    .header-middle-section{
+        background-position: -470px;
+    }
+
+}
+@media screen and (max-width:600px){
+   .header-middle-section{
+        width: 100%;
+        height: 120px;
+   }
+   .cart-div{
+        display: none;
+   }
+   .logo-div img{
+        width: 100%;
+   }
+   .mob-nav-btn{
+    display: block;
+   }
+   .menu-ul{
+    
+   }
+   .menu-ul{
+    display: none;
+   }
+   .mob-nav-icon{
+    display: block;
+    color: #31160a;
+    font-size: 30px;
+    float: right;
+   }
+   .menu-inner{
+    
+   }
+   .mob-nav-btn{
+       width: 100%;
+       padding: 15px;
+   }
+   .main-cover{
+       height:250px;
+   }
+   .menu-ul li{
+        display: block;
+   }
+   .main-slider{
+       display: none;
+   }
+   .main-cover-text h1 {
+        font-size: 22px;
+    }
+    .section-ukusne-praline-inner{
+        padding: 13px;
+    }
+    .thumbnail-img {
+        width: 100%;
+        padding-top: 15px;
+    }
+    .nasa-selekcija-istaknuto{
+        margin: 0 auto;
+    }
+    .post-img{
+        width:100%;
+    }
+    .post-img img{
+        margin-left: 0px;
+        width:100%;
+    }
+    .single-post{
+        display: block;
+    }
+    .mob-row{
+        margin-right: 0px!important;
+        margin-left: 0px!important;
+    }
+    .post-info{
+        width: 100%;
+        padding: 15px;
+    }
+    .post-info h4{
+        padding-left: 0px!important;
+    }
+    .post-info p{
+        padding-left: 0px!important;
+    }
+    .footer-inner{
+        display: block;
+    }
+    .footer-left{
+        display: block;
+        width: 100%;
+    }
+    .footer-left-first-div{
+        width: 100%;
+    }
+    .footer-left-second-div{
+        width: 100%;
+        padding-top: 0px!important;
+        padding-left: 0px!important;
+    }
+    .footer-left-first-div{
+        padding-bottom: 25px;
+    }
+    #footer{
+        height: auto;
+    }
+    .footer-left{
+        padding: 12px;
+    }
+    .map{
+        height: 200px;
+    }
+    .map img {
+        margin-left: -350px;
+        margin-top: -340px;
+    }
+    .copyright-inner{
+        display: block;
+    }
+    .prodact-inner{
+        flex-direction: column-reverse;
+    }
+    .right-aside{
+        margin: 0 auto;
+    }
+    .left-aside{
+        width: 100%;
+    }
+    .single-product-img{
+        width:100%;
+    }
+    .left-aside{
+        padding-left:15px;
+    }
+    .navigation-bar{
+        float: left;
+        padding-left:10px;
+    }
+    .menu-ul {
+        position: absolute;
+        z-index: 1000;
+        background-image: linear-gradient(to right top, #926424, #a97b39, #c0924f, #d8aa65, #f0c37c);
+        margin-top: 29px;
+        width: 100%;
+        height: 100%;
+    }
+    .newsletter-inner{
+        display: block;
+    }
+    .newsletter-div{
+        height: auto;
+    }
+    .newsletter-right{
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    .newsletter-input{
+        width: 210px;
+    }
+    .newsletter-left span{
+        font-size: 24px;
+    }
+    .newsletter-inner{
+        padding: 10px;
+    }
+    .btn-blog{
+        margin-left:0px;
+    }
+    .decoration-line-box{
+        width: 100%;
+    }
+    .korpa{
+            /* width: 100%;
+            height: 190px;
+            overflow: hidden;
+            overflow-y: hidden;
+            margin: 0 auto;
+            white-space: nowrap */
+    }
+    .right-aside{
+        padding-left: 15px;
+        margin: 0px;
+        width: 95%;
+    }
+    .leftGhost{
+        width:100%;
+        float: unset;
+        padding-left: 0px;
+    }
+    .rightGhost{
+        width: 100%;
+        float: unset;
+    }
+    .input-style{
+        width:100%;
+    }
+    .bigGhost{
+        color: #462516;
+    }
+    .kreiraj-nalog-poruka{
+        width: 95%;
+    }
+    .tableResponsive{
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+    }
+    .logo-footer img {
+        width: 320px;
+    }
+    .uloguj-se-div{
+        height:auto;
+    }
+}
