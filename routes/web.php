@@ -22,3 +22,7 @@ Route::get('/korpa', function () {
 Route::get('/kreiranje-naloga', function () {
     return view('kreiranje-naloga');
 });
+
+Route::get('/products', function () {
+    return view('products');
+});
