@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/korpa', function () {
     return view('korpa');
 });
+
+Route::get('/uloguj-se', function () {
+    return view('login');
+});
