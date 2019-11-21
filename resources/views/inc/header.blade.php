@@ -19,7 +19,7 @@
                             </div>
                             <div class="cart-icon-div">
                                 <div class="cart-icon-left">
-                                    <a href="#">
+                                    <a href="/korpa">
                                         <img src="{{ asset('images/web/cart.png') }}">
                                     </a>
                                 </div>
@@ -39,7 +39,7 @@
                     <i class="fas fa-bars mob-nav-icon"></i>
                 </div>
                     <ul class="menu-ul">
-                        <li class="menu-ul-li menu-ul-li-active">NASLOVNA</li>
+                        <li class="menu-ul-li menu-ul-li-active"><a href="/">NASLOVNA</a></li>
                         <li class="menu-ul-li">PRODAVNICA ČOKOLADE</li>
                         <li class="menu-ul-li">KORPORATIVNI POKLONI</li>
                         <li class="menu-ul-li">GALERIJA</li>
