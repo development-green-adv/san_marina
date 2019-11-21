@@ -18,3 +18,7 @@ Route::get('/', function () {
 Route::get('/korpa', function () {
     return view('korpa');
 });
+
+Route::get('/kreiranje-naloga', function () {
+    return view('kreiranje-naloga');
+});
