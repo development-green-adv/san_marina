@@ -40,12 +40,12 @@
                 </div>
                     <ul class="menu-ul">
                         <li class="menu-ul-li menu-ul-li-active"><a href="/">NASLOVNA</a></li>
-                        <li class="menu-ul-li">PRODAVNICA ČOKOLADE</li>
-                        <li class="menu-ul-li">KORPORATIVNI POKLONI</li>
-                        <li class="menu-ul-li">GALERIJA</li>
-                        <li class="menu-ul-li">SLATKI BLOG</li>
-                        <li class="menu-ul-li">KONTAKT</li>
-                        <li class="menu-ul-li">ENG <span class="language-select">| <img src="{{ asset('images/web/white-arrow.png') }}"></span></li>
+                        <li class="menu-ul-li"><a href="#">PRODAVNICA ČOKOLADE</a></li>
+                        <li class="menu-ul-li"><a href="#">KORPORATIVNI POKLONI</a></li>
+                        <li class="menu-ul-li"><a href="#">GALERIJA</a></li>
+                        <li class="menu-ul-li"><a href="#">SLATKI BLOG</a></li>
+                        <li class="menu-ul-li"><a href="#">KONTAKT</a></li>
+                        <li class="menu-ul-li"><a href="#">ENG <span class="language-select">| <img src="{{ asset('images/web/white-arrow.png') }}"></span></a></li>
                     </ul>
                 </div>
             </div>
